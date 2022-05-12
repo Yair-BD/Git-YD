@@ -1,6 +1,4 @@
-import numpy as np
-import tensorflow as tf
+from random import  randint
 
-x = np.array([1, 2, 5])
-
-print("Dvir changed the fork !!!")
+for i in range(randint(0,100)):
+    print(i)
