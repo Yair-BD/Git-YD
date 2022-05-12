@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: alfi-and-yair-py-module
+Version: 0.0.1
+Summary: A test package
+Home-page: https://github.com/dviralfi/Git-YD-fork
+Author: Dvir Alfi and Yair Ben David
+Author-email: nba.dvir@gmail.com
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Git-YD-fork
+Dvir and Yair - A Test Repository - "Controlling the version"

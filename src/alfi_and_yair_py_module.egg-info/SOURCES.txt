@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/alfi_and_yair_py_module/__init__.py
+src/alfi_and_yair_py_module/the_script.py
+src/alfi_and_yair_py_module.egg-info/PKG-INFO
+src/alfi_and_yair_py_module.egg-info/SOURCES.txt
+src/alfi_and_yair_py_module.egg-info/dependency_links.txt
+src/alfi_and_yair_py_module.egg-info/top_level.txt
